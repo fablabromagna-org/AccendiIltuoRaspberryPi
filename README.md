@@ -18,5 +18,5 @@ Per testare se il raspberry a cui siete collegati via SSH è effettivamente quel
 > _alla fine del corso dovreste essere in grado di comprendere la sintassi di questo comando e di eseguirlo in maniera consapevole._
 
 ```
-sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash /dev/stdin  4
+sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash -s  4
 ```
