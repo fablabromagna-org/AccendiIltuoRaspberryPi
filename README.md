@@ -5,8 +5,33 @@
 
 Il presente repository contiene i materiali del corso "Accendi il tuo Raspberry Pi".
 
+https://fablabromagna.org/accendi-il-tuo-raspberry-pi/
+
 
 **[DRAFT]**
+
+## Installazione Raspberry Pi OS con rpi-imager
+
+Sistema scelto: Raspberry Pi OS Desktop (32)
+
+__Opzioni avanzate:__
+
+- Imposta nome host: rasp-flr01   <vedi note>
+- Abilida SSH:
+    - Usa password e autenticazione
+
+- Imposta nome utente e password:
+    - nome utente: pi
+    - password: flr2023
+    
+- Configura WiFi:
+    - SSID: <ssid_makerspace>
+    - PWD:  <pwd_makerspace>
+    - Nazione WiFi: IT
+    
+__Note:__
+- incrementare il numero di nome host ad ogni installazione in modo da avere hostname diversi
+- per semplificare la gestione e la logistica, useremo su ogni rasp lo stesso utente con la stessa password. Se installerete il vostro raspberry potete ovviamente scegliere una password segreta
 
 
 
