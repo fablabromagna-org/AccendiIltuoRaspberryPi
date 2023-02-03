@@ -40,7 +40,7 @@ __Note:__
 ### Blink
 Per testare se il raspberry a cui siete collegati via SSH è effettivamente quello che avete sotto gli occhi, usate questo comando per fare lampeggiare il led verde interno. Potete sostituire il 4 finale con un altro numero (numero di lampeggi veloci)
 
-> _alla fine del corso dovreste essere in grado di comprendere la sintassi di questo comando e di eseguirlo in maniera consapevole._
+> _alla fine del corso dovreste essere in grado di comprendere la sintassi di questo comando e di eseguirlo in maniera consapevole... anche senza copia&incolla_ :)
 
 ```
 sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash -s  4
