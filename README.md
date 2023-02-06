@@ -12,9 +12,15 @@ https://fablabromagna.org/accendi-il-tuo-raspberry-pi/
 
 ## Installazione Raspberry Pi OS con rpi-imager
 
-Sistema scelto: Raspberry Pi OS Desktop (32)
+Per l'installazione del sistema sulla microSD utilizzare l'utility *"Raspberry Pi Imager"* scaricabile da seguente link:
+https://www.raspberrypi.com/software/
 
-__Opzioni avanzate:__
+Dall'interfaccia selezionare l'immagine del sistema da installare, selezionare la microSD di destinazione e impostare le opzioni avanzate come descritto di seguito.
+
+
+**Sistema da selezionare:** _Raspberry Pi OS Desktop (32)_
+
+__Opzioni avanzate (Icona ingranaggio in basso a destra):__
 
 - Imposta nome host: rasp-flr01   <vedi note>
 - Abilita SSH:
