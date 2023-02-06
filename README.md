@@ -17,7 +17,7 @@ Sistema scelto: Raspberry Pi OS Desktop (32)
 __Opzioni avanzate:__
 
 - Imposta nome host: rasp-flr01   <vedi note>
-- Abilida SSH:
+- Abilita SSH:
     - Usa password e autenticazione
 
 - Imposta nome utente e password:
