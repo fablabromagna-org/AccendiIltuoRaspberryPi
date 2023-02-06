@@ -48,4 +48,5 @@ sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash -s  4
     
 ### Esempi di software che utilizzano script bash per l'installazione:
 - Octoprint: https://github.com/paukstelis/octoprint_install
+- Scargill - The script: https://tech.scargill.net/the-script/
     
