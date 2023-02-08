@@ -12,12 +12,18 @@ https://fablabromagna.org/accendi-il-tuo-raspberry-pi/
 
 ## Installazione Raspberry Pi OS con rpi-imager
 
-Sistema scelto: Raspberry Pi OS Desktop (32)
+Per l'installazione del sistema sulla microSD utilizzare l'utility *"Raspberry Pi Imager"* scaricabile da seguente link:
+https://www.raspberrypi.com/software/
 
-__Opzioni avanzate:__
+Dall'interfaccia selezionare l'immagine del sistema da installare, selezionare la microSD di destinazione e impostare le opzioni avanzate come descritto di seguito.
+
+
+**Sistema da selezionare:** _Raspberry Pi OS Desktop (32)_
+
+__Opzioni avanzate (Icona ingranaggio in basso a destra):__
 
 - Imposta nome host: rasp-flr01   <vedi note>
-- Abilida SSH:
+- Abilita SSH:
     - Usa password e autenticazione
 
 - Imposta nome utente e password:
@@ -40,8 +46,13 @@ __Note:__
 ### Blink
 Per testare se il raspberry a cui siete collegati via SSH è effettivamente quello che avete sotto gli occhi, usate questo comando per fare lampeggiare il led verde interno. Potete sostituire il 4 finale con un altro numero (numero di lampeggi veloci)
 
-> _alla fine del corso dovreste essere in grado di comprendere la sintassi di questo comando e di eseguirlo in maniera consapevole._
+> _alla fine del corso dovreste essere in grado di comprendere la sintassi di questo comando e di eseguirlo in maniera consapevole... anche senza copia&incolla_ :)
 
 ```
 sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash -s  4
 ```
+    
+### Esempi di software che utilizzano script bash per l'installazione:
+- Octoprint: https://github.com/paukstelis/octoprint_install
+- Scargill - The script: https://tech.scargill.net/the-script/
+    
