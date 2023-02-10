@@ -1,16 +1,17 @@
 # Materiale per il corso GNU/Linux su Raspberry Pi c/o FablabRomagna
 
-11 e 18 febbraio 2023 - makerspace di Santarcangelo presso la Biblioteca “Baldini”
 
+![./images/banner.png](https://github.com/fablabromagna-org/AccendiIltuoRaspberryPi/blob/main/images/banner.png "Banner")
+
+**11 e 18 febbraio 2023 - makerspace di Santarcangelo presso la Biblioteca “Baldini”**
 
 Il presente repository contiene i materiali del corso "Accendi il tuo Raspberry Pi".
 
 https://fablabromagna.org/accendi-il-tuo-raspberry-pi/
 
 
-**[DRAFT]**
 
-## Installazione Raspberry Pi OS con rpi-imager
+## Installazione Raspberry Pi OS con "Raspberry Pi Imager"
 
 Per l'installazione del sistema sulla microSD utilizzare l'utility *"Raspberry Pi Imager"* scaricabile da seguente link:
 https://www.raspberrypi.com/software/
@@ -41,6 +42,10 @@ __Note:__
 
 
 
+## Un po' di documentazione
+
+A [questo link](./docs) potete trovare documentazione sulla shell GNU/Linux e sui principali comandi usati nelle sessioni del corso.
+    
 ## Utility e script di prova
 
 ### Blink
