@@ -51,7 +51,13 @@ Per testare se il raspberry a cui siete collegati via SSH è effettivamente quel
 ```
 sudo echo"blink"; wget -O -  https://cutt.ly/r9VJCfU  | sudo bash -s  4
 ```
-    
+
+### Scaricare lo script Blink ed eseguirlo in locale
+```
+wget -O blink.sh  https://cutt.ly/r9VJCfU
+```
+
+
 ### Esempi di software che utilizzano script bash per l'installazione:
 - Octoprint: https://github.com/paukstelis/octoprint_install
 - Scargill - The script: https://tech.scargill.net/the-script/
