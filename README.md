@@ -64,6 +64,12 @@ wget -O blink.sh  https://cutt.ly/r9VJCfU
 
 
 ### Esempi di software che utilizzano script bash per l'installazione:
+
 - Octoprint: https://github.com/paukstelis/octoprint_install
 - Scargill - The script: https://tech.scargill.net/the-script/
+
+
+### Esempi di software installabili da github
+
+- rpi-clone - https://github.com/billw2/rpi-clone
     
