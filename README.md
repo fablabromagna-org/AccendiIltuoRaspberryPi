@@ -73,5 +73,6 @@ wget -O blink.sh  https://cutt.ly/r9VJCfU
 
 - rpi-clone (Bash) - https://github.com/billw2/rpi-clone
 - mjpg-streamer (C) - https://github.com/jacksonliam/mjpg-streamer
+- midish (C - Autoconfigure) - https://github.com/ratchov/midish
     
     
