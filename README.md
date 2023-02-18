@@ -71,5 +71,7 @@ wget -O blink.sh  https://cutt.ly/r9VJCfU
 
 ### Esempi di software installabili da github
 
-- rpi-clone - https://github.com/billw2/rpi-clone
+- rpi-clone (Bash) - https://github.com/billw2/rpi-clone
+- mjpg-streamer (C) - https://github.com/jacksonliam/mjpg-streamer
+    
     
